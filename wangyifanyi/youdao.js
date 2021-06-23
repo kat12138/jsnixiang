@@ -12,3 +12,5 @@
 
 ret = r('你真帅')
 console.log(ret)
+
+    // test
